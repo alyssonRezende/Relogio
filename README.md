@@ -1,0 +1,3 @@
+# Relogio
+Um relogio simples usando JavaScript, HTML, e CSS...
+Ótimo exercicio para quem está aprendendo JS
